@@ -14,6 +14,8 @@ namespace Exemplo2
             animal.SomAnimal();
             animal.Comer();
             animal.Brincar();
+            animal.SomAnimal();
+            animal.SomAnimal();
         }
     }
 }
