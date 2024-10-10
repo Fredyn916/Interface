@@ -1,4 +1,4 @@
-﻿namespace Exemplo1;
+﻿namespace Exemplo2;
 
 public class Gato : IAnimal
 {

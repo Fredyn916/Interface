@@ -1,8 +1,9 @@
-﻿namespace Exemplo1;
-
-public interface IAnimal
+﻿namespace Exemplo2
 {
-    void SomAnimal();
-    void Brincar();
-    void Comer();
+    public interface IAnimal
+    {
+        void SomAnimal();
+        void Brincar();
+        void Comer();
+    }
 }
