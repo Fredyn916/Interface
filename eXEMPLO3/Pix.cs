@@ -1,11 +1,4 @@
-﻿using Exemplo3;
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
-namespace eXEMPLO3
+﻿namespace Exemplo3
 {
     public class Pix : IFormaPagamento
     {

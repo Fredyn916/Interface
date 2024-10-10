@@ -6,6 +6,7 @@ int resposta = -1;
 
 while (resposta < 0 || resposta > 3)
 {
+    Console.WriteLine("Digite o número respectivo ao animal desejado:");
     Console.WriteLine("1 - Cachorro");
     Console.WriteLine("2 - Gato");
     Console.WriteLine("3 - Pássaro");
@@ -35,4 +36,4 @@ switch (resposta)
 }
 
 GerenciadorAnimal gerrenciado = new GerenciadorAnimal();
-gerrenciado.RealizarAcao(g);
+gerrenciado.RealizarAcao(animal);

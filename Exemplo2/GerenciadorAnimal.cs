@@ -1,7 +1,4 @@
-﻿using Exemplo1;
-using System;
-using System.Collections.Generic;
-namespace Exemplo2
+﻿namespace Exemplo2
 {
     public class GerenciadorAnimal
     {
@@ -10,8 +7,6 @@ namespace Exemplo2
             animal.SomAnimal();
             animal.Comer();
             animal.Brincar();
-            animal.SomAnimal();
-            animal.SomAnimal();
         }
     }
 }
